@@ -31,7 +31,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.msob7y.namida"
+    namespace = "com.msob7y.𝐒𝐎𝐔𝐋"
     compileSdkVersion(36)
     ndkVersion = flutter.ndkVersion
     
@@ -51,7 +51,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.msob7y.namida"
+        applicationId = "com.msob7y.𝐒𝐎𝐔𝐋"
         minSdk = 24
         targetSdk = 36
         versionCode = flutter.versionCode
